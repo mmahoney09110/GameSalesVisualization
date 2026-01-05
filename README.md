@@ -1,7 +1,6 @@
 # Game Sales Visualization
 
 **Author:** Robert Mahoney  
-**Course:** CIS 333 – Data Visualization & Storytelling  
 **Date:** April 24, 2025  
 
 ---
