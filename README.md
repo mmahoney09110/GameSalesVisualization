@@ -55,5 +55,3 @@ The workbook contains three story-driven dashboards:
 1. Open `GameSalesDashboard.twbx` in Tableau Desktop or Tableau Public  
 2. Explore the dashboards and filters to interact with the visualizations  
 3. Optionally, review it on my [Tableau Profile](https://public.tableau.com/app/profile/robert.mahoney/viz/GameSalesVisualization/VideoGameSales)
-
-## Repository Structure
